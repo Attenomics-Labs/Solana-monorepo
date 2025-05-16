@@ -1,8 +1,8 @@
 [submodule "Attenomics-cron"]
-	path = Attenomics-cron
+	path = Server-Cron
 	url = https://github.com/Attenomics-Labs/Attenomics-cron
 [submodule "attenomics-backend-apis"]
-	path = attenomics-backend-apis
+	path = Server-API
 	url = https://github.com/Attenomics-Labs/attenomics-backend-apis
 [submodule "solana-contracts"]
 	path = solana-contracts
@@ -10,3 +10,7 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/Attenomics-Labs/docs
+[submodule "att-new"]
+	path = client
+	url = https://github.com/Attenomics-Labs/att-new
+	branch = main
